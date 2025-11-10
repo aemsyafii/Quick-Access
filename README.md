@@ -19,9 +19,9 @@ Quick Access by Aplikasiku adalah aplikasi mobile yang dirancang untuk memudahka
 
 Berikut adalah beberapa tangkapan layar dari aplikasi:
 
-![Screenshot 1](Screenshot_20251110-090118.Quick%20Access%20by%20Aplikasiku.png)
-![Screenshot 2](Screenshot_20251110-090135.Quick%20Access%20by%20Aplikasiku.png)
-![Screenshot 3](Screenshot_20251110-090138.Quick%20Access%20by%20Aplikasiku.png)
+![Screenshot 1](Screenshot_20251110-090135.Quick%20Access%20by%20Aplikasiku.png)
+![Screenshot 2](Screenshot_20251110-090138.Quick%20Access%20by%20Aplikasiku.png)
+![Screenshot 3](Screenshot_20251110-090118.Quick%20Access%20by%20Aplikasiku.png)
 
 ## Download dan Install
 
@@ -35,17 +35,3 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 - Android 5.0 (Lollipop) atau lebih tinggi
 - Izin akses kamera (untuk QR Scan)
 - Izin akses lokasi (untuk My Location)
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:
-- Email: [your-email@example.com]
-- GitHub: [your-github-username]
-
-## Lisensi
-
-Proyek ini adalah untuk tujuan pendidikan dan tidak memiliki lisensi khusus.
-
----
-
-*Dibuat dengan ❤️ oleh Aplikasiku*
